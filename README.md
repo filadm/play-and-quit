@@ -6,7 +6,7 @@ A phone-first game for quitting a habit. Log the last time you did it, and each 
 - **A Knockdown** is a slip. If the run was shorter than the Boss, you go back to level 1 and the shorter run becomes the new Boss. Your personal best always stays.
 - **Two modes:** Quit for good (milestones up to 1 year, "Free") or Take a break (a set challenge with weekly checkpoints).
 
-Working title. All data stays in your browser's local storage on your device; nothing is sent anywhere.
+Available in English and Amharic (አማርኛ). Working title. All data stays in your browser's local storage on your device; nothing is sent anywhere.
 
 ## Safety
 
